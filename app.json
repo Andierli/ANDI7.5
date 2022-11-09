@@ -6,7 +6,7 @@
     "bot_token": {
       "description": "El token del bot"
     },"tl_admin_user": {
-      "description": "usuarion administrador del bote de telegram","value":"Andi9919"
+      "description": "usuarion administrador del bote de telegram","LizardAlex":"Andi9919"
     }
   }
 }
